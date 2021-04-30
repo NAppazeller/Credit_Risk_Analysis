@@ -28,9 +28,9 @@ Balanced accuracy for the overampling method was 62.8%. High and low risk precis
 
 * Undersampling
 
-https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Undersampling_bal%20accuracy.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Undersampling_bal%20accuracy.jpg)
 
-https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Undersampling_classification_imbalance.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Undersampling_classification_imbalance.jpg)
 
 * Combination (Over and Under) Sampling
 
