@@ -11,41 +11,41 @@ Precision (predictive value:  measure of the likelihood.
 Recall: assess a model's performance with sensitivity or determine the accuracy of the precision
 F1 score (harmonic mean) can be characterized as a single summary statistic of precision and sensitivity
 
-* Oversampling
+### Oversampling
 
-Balanced accuracy for the overampling method was 62.8%. High and low risk precision was
+* Balanced accuracy for the overampling method was 62.8%. High and low risk precision was
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Oversampling_bal%20accuracy.jpg)
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Oversampling_classification_imbalance.jpg)
 
   
-* SMOTE Oversampling 
+### SMOTE Oversampling 
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/SMOTE_bal%20accuracy.jpg)
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/SMOTE_classification_imbalance.jpg)
 
-* Undersampling
+### Undersampling
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Undersampling_bal%20accuracy.jpg)
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Undersampling_classification_imbalance.jpg)
 
-* Combination (Over and Under) Sampling
+### Combination (Over and Under) Sampling
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/OverUnderSampling_bal%20accuracy.jpg)
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/OverUnderSampling_classification_imbalance.jpg)
 
-* Balanced Random Forest Classifier
+### Balanced Random Forest Classifier
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/RandomForest_bal%20accuracy.jpg)
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/RandomForest_classification_imbalance.jpg)
 
 
-* Easy Ensemble Classifier
+### Easy Ensemble Classifier
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/EEC_bal%20accuracy.jpg)
 
