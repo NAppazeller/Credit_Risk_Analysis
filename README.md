@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Header_image.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/Header_image.jpg)
 
 ## Overview: 
 
@@ -13,9 +13,9 @@ Fast Lending, a lending services company, has asked for assistance building and 
 * Balanced accuracy for the oversampling method was 62.8%.
 * High-risk precision and recall scores were 1.0% and 62%, respectively.
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Oversampling_bal%20accuracy.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/Oversampling_bal%20accuracy.jpg)
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Oversampling_classification_imbalance.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/Oversampling_classification_imbalance.jpg)
 
   
 ### SMOTE Oversampling 
@@ -23,36 +23,36 @@ Fast Lending, a lending services company, has asked for assistance building and 
 * Balanced accuracy for the oversampling method was 63.0%.
 * High-risk precision and recall scores were 1.0% and 61%, respectively.
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/SMOTE_bal%20accuracy.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/SMOTE_bal%20accuracy.jpg)
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/SMOTE_classification_imbalance.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/SMOTE_classification_imbalance.jpg)
 
 ### Undersampling
 
 * Balanced accuracy for the oversampling method was 51.1%.
 * High-risk precision and recall scores were 1.0% and 59%, respectively.
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Undersampling_bal%20accuracy.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/Undersampling_bal%20accuracy.jpg)
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Undersampling_classification_imbalance.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/Undersampling_classification_imbalance.jpg)
 
 ### Combination (Over and Under) Sampling
 
 * Balanced accuracy for the oversampling method was 61.7%.
 * High-risk precision and recall scores were 1.0% and 70% respectively.
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/OverUnderSampling_bal%20accuracy.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/OverUnderSampling_bal%20accuracy.jpg)
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/OverUnderSampling_classification_imbalance.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/OverUnderSampling_classification_imbalance.jpg)
 
 ### Balanced Random Forest Classifier
 
 * Balanced accuracy for the oversampling method was 78.8%.
 * High-risk precision and recall scores were 4.0% and 67%, respectively.
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/RandomForest_bal%20accuracy.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/RandomForest_bal%20accuracy.jpg)
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/RandomForest_classification_imbalance.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/RandomForest_classification_imbalance.jpg)
 
 
 ### Easy Ensemble Classifier
@@ -60,9 +60,9 @@ Fast Lending, a lending services company, has asked for assistance building and 
 * Balanced accuracy for the oversampling method was 92.5%.
 * High-risk precision and recall scores were 7.0% and 91%, respectively.
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/EEC_bal%20accuracy.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/EEC_bal%20accuracy.jpg)
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/EEC_classification_imbalance.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/EEC_classification_imbalance.jpg)
 
 ## Summary: 
 
