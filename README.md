@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 
-![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/Header_image.jpg)
+![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/Header_image.jpg)
 
 ## Overview: 
 
