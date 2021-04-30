@@ -11,7 +11,7 @@ Fast Lending, a lending services company, has asked for assistance building and 
 ### Oversampling
 
 * Balanced accuracy for the oversampling method was 62.8%.
-* High-risk precision and recall scores were 1.0% and 62%, respectively.
+* High-risk precision and recall scores were 1.0% and 59%, respectively.
 
 ![](https://github.com/NAppazeller/Credit_Risk_Analysis/blob/main/photos/Oversampling_bal%20accuracy.jpg)
 
